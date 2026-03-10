@@ -841,8 +841,14 @@
   },
   "UZ56NKloehcxUFNuSeO19": {
     "title": "Lifetimes & Borrow Checker",
-    "description": "Lifetimes define how long references remain valid, preventing dangling references and memory safety issues. The borrow checker enforces these rules at compile time. Lifetime annotations use syntax like `'a` to specify relationships between references in function signatures when the compiler can't infer them automatically.",
-    "links": []
+    "description": "Lifetimes define how long references remain valid, preventing dangling references and memory safety issues. The borrow checker enforces these rules at compile time. Lifetime annotations use syntax like `'a` to specify relationships between references in function signatures when the compiler can't infer them automatically.\n\nVisit the following resources to learn more:",
+    "links": [
+      {
+        "title": "Crust of Rust: Lifetime Annotations",
+        "url": "https://youtu.be/rAl-9HwD858",
+        "type": "video"
+      }
+    ]
   },
   "R5HIVS-lyCp9b46aXqx2m": {
     "title": "Explicit Lifetime Annotations",
@@ -1310,6 +1316,16 @@
   "clQ26LFV_9AdQ4evnaxUK": {
     "title": "Criterion.rs",
     "description": "`Criterion.rs` is a statistics-driven microbenchmarking library for Rust that provides reliable performance analysis over time. It offers detailed feedback, automatic outlier detection, and statistical methods to compare algorithm performance and track regressions with actionable insights.",
+    "links": []
+  },
+  "box@WjpkWH7f38y-bHUJ6ruGG.md": {
+    "title": "Box",
+    "description": "",
+    "links": []
+  },
+  "gpui@sK2pHK0iTvL3KdTTFCr0Y.md": {
+    "title": "GPUI",
+    "description": "",
     "links": []
   }
 }
